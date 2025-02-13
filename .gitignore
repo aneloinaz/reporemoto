@@ -2,3 +2,4 @@ password.py
 *.txt
 *.java
 !Taxi.java
+*.html
